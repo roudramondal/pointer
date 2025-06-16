@@ -11,7 +11,7 @@ int main ()
     // x+=40;
     // cout << *p << "\n";
     int *p1;
-    double *p2;
+    double *p2; // verable declare 
     string *p3;
     cout << sizeof(*p1) <<"\n"<<sizeof(*p2) <<"\n"<<sizeof(*p3)<<"\n";
 
