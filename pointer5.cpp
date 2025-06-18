@@ -6,7 +6,7 @@ int main ()
     // int *ptr = arr;
     // cout << sizeof(arr)<<"\n";
     // cout << sizeof(*ptr);
-    char arr[]= {'g','f','g'};
+    char arr[]= {'g','f','g'}; // insert value in the array
     char *ptr = arr;
     cout << sizeof(arr)<<"\n";
     cout << sizeof(ptr);
